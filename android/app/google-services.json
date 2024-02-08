@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238286073559",
+    "project_id": "laptopzone-user-c390d",
+    "storage_bucket": "laptopzone-user-c390d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238286073559:android:2890c8812d0a4def0aca92",
+        "android_client_info": {
+          "package_name": "com.athif.laptopzone_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoRVbOVA20itAz_Zu59oW8j2gYclA_D_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
